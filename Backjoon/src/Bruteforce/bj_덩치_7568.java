@@ -11,18 +11,11 @@ import java.util.StringTokenizer;
   * @FileName : bj_덩치_7568.java
   * @Date : 2020. 8. 10. 
   * @작성자 : yusw10
-  * @프로그램 설명 :
+  * @프로그램 설명 : 
+  * 그냥 일일이 다 비교하면될거같은데? >> ok
  */
 
-/*
- * 5
-55 185
-58 183
-88 186
-60 175
-46 155
-입ㄹ
- */
+
 
 public class bj_덩치_7568 {
 	public static void main(String[] args) throws NumberFormatException, IOException {
