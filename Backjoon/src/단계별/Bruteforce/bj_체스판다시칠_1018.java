@@ -1,4 +1,4 @@
-package Bruteforce;
+package 단계별.Bruteforce;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Bruteforce;
+package 단계별.Bruteforce;
 /**
  * 
   * @FileName : bj_블랙잭_2798.java
